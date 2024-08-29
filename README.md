@@ -22,5 +22,6 @@ Este é um aplicativo mobile de confeitaria desenvolvido utilizando a framework 
    
 bash
    git clone https://github.com/seu-usuario/repositorio-confeitaria.git
+   
 2. **Link do video da apresentação no youtube:
    https://youtu.be/BY0yo97pbws
